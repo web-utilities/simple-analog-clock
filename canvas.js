@@ -2,7 +2,7 @@ const canvas = document.querySelector('canvas');
 const ctx = canvas.getContext('2d');
 
 // dimentions
-const CANVAS_SIZE = 500;
+const CANVAS_SIZE = 800;
 
 // colors
 const LABEL_COLOR = '#000';
